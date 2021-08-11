@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.456b4a95.chunk.css",
-    "main.js": "/static/js/main.4aaf47ac.chunk.js",
-    "main.js.map": "/static/js/main.4aaf47ac.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9e0e0041.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9e0e0041.js.map",
-    "static/css/2.06565635.chunk.css": "/static/css/2.06565635.chunk.css",
-    "static/js/2.435b33e9.chunk.js": "/static/js/2.435b33e9.chunk.js",
-    "static/js/2.435b33e9.chunk.js.map": "/static/js/2.435b33e9.chunk.js.map",
+    "main.css": "/static/css/main.030c44e3.chunk.css",
+    "main.js": "/static/js/main.397c0aec.chunk.js",
+    "main.js.map": "/static/js/main.397c0aec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c543bf8f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c543bf8f.js.map",
+    "static/css/2.3ab4c7df.chunk.css": "/static/css/2.3ab4c7df.chunk.css",
+    "static/js/2.22ff8ca3.chunk.js": "/static/js/2.22ff8ca3.chunk.js",
+    "static/js/2.22ff8ca3.chunk.js.map": "/static/js/2.22ff8ca3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b59a770590dbca58638cdc6b9f334c6d.js": "/precache-manifest.b59a770590dbca58638cdc6b9f334c6d.js",
+    "precache-manifest.40854d51911a35481b3df26b3ba8af27.js": "/precache-manifest.40854d51911a35481b3df26b3ba8af27.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.06565635.chunk.css.map": "/static/css/2.06565635.chunk.css.map",
-    "static/css/main.456b4a95.chunk.css.map": "/static/css/main.456b4a95.chunk.css.map",
+    "static/css/2.3ab4c7df.chunk.css.map": "/static/css/2.3ab4c7df.chunk.css.map",
+    "static/css/main.030c44e3.chunk.css.map": "/static/css/main.030c44e3.chunk.css.map",
     "static/media/C.svg": "/static/media/C.31091775.svg",
     "static/media/RossLogo.png": "/static/media/RossLogo.ae10285b.png",
     "static/media/agf-logo.svg": "/static/media/agf-logo.40092126.svg",
@@ -48,7 +48,7 @@
     "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.4b475fb3.svg",
     "static/media/liteboard.png": "/static/media/liteboard.9cadc517.png",
     "static/media/loopback.png": "/static/media/loopback.e07f6839.png",
-    "static/media/lucas_nogueira_resume.pdf": "/static/media/lucas_nogueira_resume.9b6af115.pdf",
+    "static/media/lucas_nogueira_resume.pdf": "/static/media/lucas_nogueira_resume.6bdf0d7d.pdf",
     "static/media/lucasnogueira.png": "/static/media/lucasnogueira.acc8f17e.png",
     "static/media/lucasnogueira_icon.png": "/static/media/lucasnogueira_icon.67c9b6ee.png",
     "static/media/matplotlib.svg": "/static/media/matplotlib.422414bf.svg",
@@ -82,10 +82,10 @@
     "static/media/youtube.svg": "/static/media/youtube.77bbd555.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e0e0041.js",
-    "static/css/2.06565635.chunk.css",
-    "static/js/2.435b33e9.chunk.js",
-    "static/css/main.456b4a95.chunk.css",
-    "static/js/main.4aaf47ac.chunk.js"
+    "static/js/runtime-main.c543bf8f.js",
+    "static/css/2.3ab4c7df.chunk.css",
+    "static/js/2.22ff8ca3.chunk.js",
+    "static/css/main.030c44e3.chunk.css",
+    "static/js/main.397c0aec.chunk.js"
   ]
 }
