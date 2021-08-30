@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c84063f79f5e19215605155ba08a8027",
+    "revision": "1d286622503c993387cd6d80849525cb",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.3ab4c7df.chunk.css"
   },
   {
-    "revision": "49731705af6af7f6423b",
+    "revision": "7ff8da273f66ad79c20a",
     "url": "/static/css/main.030c44e3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.22ff8ca3.chunk.js"
   },
   {
-    "revision": "49731705af6af7f6423b",
-    "url": "/static/js/main.397c0aec.chunk.js"
+    "revision": "7ff8da273f66ad79c20a",
+    "url": "/static/js/main.37f4e32e.chunk.js"
   },
   {
     "revision": "100f8a55cca32e077ccf",
@@ -164,8 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/loopback.e07f6839.png"
   },
   {
-    "revision": "6bdf0d7d2d129cb3eb204f4784fe0b33",
-    "url": "/static/media/lucas_nogueira_resume.6bdf0d7d.pdf"
+    "revision": "f16742da09f6e25df0273a75191ab7ed",
+    "url": "/static/media/lucas_nogueira_resume.f16742da.pdf"
   },
   {
     "revision": "acc8f17e422eae5a75caed1a437f3362",
