@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ec5c74b9070b9d8903e0a8642103df4",
+    "revision": "755020ca5826011875c0c041dc6b325d",
     "url": "/index.html"
   },
   {
-    "revision": "0cca9e396ae00ce5adee",
+    "revision": "9b8b5a5d0bd73f36af42",
     "url": "/static/css/2.3ab4c7df.chunk.css"
   },
   {
-    "revision": "69f6cf5298cc33b219ef",
+    "revision": "022593de3cc8c2febeb9",
     "url": "/static/css/main.61742f17.chunk.css"
   },
   {
-    "revision": "0cca9e396ae00ce5adee",
-    "url": "/static/js/2.c17dd93b.chunk.js"
+    "revision": "9b8b5a5d0bd73f36af42",
+    "url": "/static/js/2.ddff9f4f.chunk.js"
   },
   {
-    "revision": "69f6cf5298cc33b219ef",
-    "url": "/static/js/main.03e9bfcd.chunk.js"
+    "revision": "022593de3cc8c2febeb9",
+    "url": "/static/js/main.a9cfdb08.chunk.js"
   },
   {
     "revision": "100f8a55cca32e077ccf",
@@ -230,6 +230,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b4477375cbcd42acb9cb627611390dbf",
     "url": "/static/media/redis.b4477375.svg"
+  },
+  {
+    "revision": "4ed2217c1a3ee903aa6970a803ea209c",
+    "url": "/static/media/salvador_bahia1.4ed2217c.jpg"
+  },
+  {
+    "revision": "62c3d90658cf0a0ca71e77ed4d266a5f",
+    "url": "/static/media/salvador_bahia2.62c3d906.jpg"
+  },
+  {
+    "revision": "e9819a6eaccb28c967dffc9364024c34",
+    "url": "/static/media/salvador_plane_view.e9819a6e.jpg"
   },
   {
     "revision": "20891a9229082c6b87f90b6ae4cb35de",
