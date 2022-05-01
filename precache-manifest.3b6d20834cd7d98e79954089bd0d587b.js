@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ec5c74b9070b9d8903e0a8642103df4",
+    "revision": "c375a505f5cedbec50ba7729c2a148f6",
     "url": "/index.html"
   },
   {
-    "revision": "0cca9e396ae00ce5adee",
+    "revision": "8980fd469f2bed514de1",
     "url": "/static/css/2.3ab4c7df.chunk.css"
   },
   {
-    "revision": "69f6cf5298cc33b219ef",
-    "url": "/static/css/main.61742f17.chunk.css"
+    "revision": "2a05c67d079510ebbd36",
+    "url": "/static/css/main.d587b644.chunk.css"
   },
   {
-    "revision": "0cca9e396ae00ce5adee",
-    "url": "/static/js/2.c17dd93b.chunk.js"
+    "revision": "8980fd469f2bed514de1",
+    "url": "/static/js/2.caa6ca88.chunk.js"
   },
   {
-    "revision": "69f6cf5298cc33b219ef",
-    "url": "/static/js/main.03e9bfcd.chunk.js"
+    "revision": "2a05c67d079510ebbd36",
+    "url": "/static/js/main.c27cf6cf.chunk.js"
   },
   {
     "revision": "100f8a55cca32e077ccf",
@@ -64,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/chess_icon.5a885a1c.png"
   },
   {
+    "revision": "7b2cc78ba8928fc11df07d585e878cce",
+    "url": "/static/media/coursera-logo.7b2cc78b.svg"
+  },
+  {
     "revision": "62d97e179aa8a912766b7ddf37b581aa",
     "url": "/static/media/css.62d97e17.svg"
   },
@@ -74,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2e0fcd7b793e8353f3e272dc38492020",
     "url": "/static/media/docker.2e0fcd7b.svg"
+  },
+  {
+    "revision": "4c74edd05c9c8a18b95409df2cc8253e",
+    "url": "/static/media/dynamodb.4c74edd0.svg"
   },
   {
     "revision": "d30814a4b6d9360f10609969091942ca",
@@ -106,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "372f21e3285c2be0c427f15ec731a92e",
     "url": "/static/media/greenheart.372f21e3.jpg"
+  },
+  {
+    "revision": "44feb125362886d232dc47c540350b47",
+    "url": "/static/media/grpc-logo.44feb125.svg"
   },
   {
     "revision": "042493c59d923dc73a52bebb1c01760a",
@@ -164,8 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/loopback.e07f6839.png"
   },
   {
-    "revision": "dd0a5dc4c4e0585fa20622bffd2bddf1",
-    "url": "/static/media/lucas_nogueira_resume.dd0a5dc4.pdf"
+    "revision": "3324c4ba66660d9dcfe5c8a21dbc59f2",
+    "url": "/static/media/lucas_nogueira_resume.3324c4ba.pdf"
   },
   {
     "revision": "acc8f17e422eae5a75caed1a437f3362",
@@ -238,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5dc4ade3acf6b3836ab45becc3d07fef",
     "url": "/static/media/socket-io.5dc4ade3.svg"
+  },
+  {
+    "revision": "0881daccb5178410b18a1a36984da095",
+    "url": "/static/media/spring-boot-logo.0881dacc.png"
   },
   {
     "revision": "be8949ebe8842dcaa9ce8ec292c76a48",
