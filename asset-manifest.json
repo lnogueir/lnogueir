@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lnogueir/static/css/main.8bda782f.chunk.css",
-    "main.js": "/lnogueir/static/js/main.f3a0df90.chunk.js",
-    "main.js.map": "/lnogueir/static/js/main.f3a0df90.chunk.js.map",
+    "main.js": "/lnogueir/static/js/main.77f16dfe.chunk.js",
+    "main.js.map": "/lnogueir/static/js/main.77f16dfe.chunk.js.map",
     "runtime-main.js": "/lnogueir/static/js/runtime-main.834e769f.js",
     "runtime-main.js.map": "/lnogueir/static/js/runtime-main.834e769f.js.map",
     "static/css/2.3ab4c7df.chunk.css": "/lnogueir/static/css/2.3ab4c7df.chunk.css",
     "static/js/2.caa6ca88.chunk.js": "/lnogueir/static/js/2.caa6ca88.chunk.js",
     "static/js/2.caa6ca88.chunk.js.map": "/lnogueir/static/js/2.caa6ca88.chunk.js.map",
     "index.html": "/lnogueir/index.html",
-    "precache-manifest.29674a6526c3700f704cd9a6645a2c9b.js": "/lnogueir/precache-manifest.29674a6526c3700f704cd9a6645a2c9b.js",
+    "precache-manifest.04078951c42dac0c9a5002134743e657.js": "/lnogueir/precache-manifest.04078951c42dac0c9a5002134743e657.js",
     "service-worker.js": "/lnogueir/service-worker.js",
     "static/css/2.3ab4c7df.chunk.css.map": "/lnogueir/static/css/2.3ab4c7df.chunk.css.map",
     "static/css/main.8bda782f.chunk.css.map": "/lnogueir/static/css/main.8bda782f.chunk.css.map",
@@ -89,6 +89,6 @@
     "static/css/2.3ab4c7df.chunk.css",
     "static/js/2.caa6ca88.chunk.js",
     "static/css/main.8bda782f.chunk.css",
-    "static/js/main.f3a0df90.chunk.js"
+    "static/js/main.77f16dfe.chunk.js"
   ]
 }
