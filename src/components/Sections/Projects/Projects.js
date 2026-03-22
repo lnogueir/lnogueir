@@ -10,8 +10,6 @@ import HTML_DETECTIVE_ICON from '../../../assets/images/html_detective_icon.png'
 import HTML_DETECTIVE from '../../../assets/images/html_detective.png'
 import PSYCARE_ICON from '../../../assets/images/psycare_icon.png'
 import PSYCARE from '../../../assets/images/psycare.png'
-import TINDER_ICON from '../../../assets/images/tinder_icon.svg'
-import TINDER from '../../../assets/images/tinder.png'
 import JAVASCRIPT from '../../../assets/images/javascript.svg'
 import HTML from '../../../assets/images/html.svg'
 import CSS from '../../../assets/images/css.svg'
@@ -288,25 +286,6 @@ function Projects(props) {
                 { src: REACT, title: 'React Native' },
                 { src: LOOPBACK, title: 'Loopback' },
                 { src: PYTHON, title: 'Python' }
-            ]
-        },
-        {
-            icon: TINDER_ICON,
-            title: 'Tinder Bot',
-            subtitle: 'Side Project',
-            main_image: TINDER,
-            description: `
-                <b>Tinder bot</b> is a funny bot that optimizes your time and efficiency on tinder. <br/> <br/>
-                Made as a standalone python application and possible to be developed thanks to the, REST based, <a href="https://github.com/fbessez/Tinder">Tinder api</a>, it runs on an EC2 instance and it is self sufficient.<br/><br/>
-                It automatically authenticates the user every 24 hours, since after this time the user session expires and swipes right until max amount of swipes/time is reached. It sleeps until its time to swipe again. <br/><br/>Once it finds a match, it will send messages automatically and if the match replies accordingly the bot will notify the user via email with all the match's bio information and let user decide to either proceed with the match, or unmatch in case the bio isn’t interesting.
-            `,
-            short_description: "A funny bot that will find tinder dates for you",
-            links: {
-                github: 'https://github.com/lnogueir/my_tinder_bot',
-            },
-            tech: [
-                { src: PYTHON, title: 'Python' },
-                { src: AWS, title: 'Amazon Web Services' }
             ]
         },
         {
